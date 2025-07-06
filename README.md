@@ -62,3 +62,7 @@ Edit
 | **State/Data** | TanStack React Query        |
 | **Build Tool** | Vite                        |
 | **Deployment** | GitHub Pages + `gh-pages`   |
+
+
+
+This project is a part of a hackathon run by https://www.katomaran.com 
